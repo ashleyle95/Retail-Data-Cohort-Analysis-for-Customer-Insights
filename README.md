@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/f33e387a-5841-463d-91e8-87c95b063496)
 # Retail Data & Cohort Analysis for Customer Insights
+[Project Link](https://github.com/ashleyle95/Retail-Data-Cohort-Analysis-for-Customer-Insights/blob/main/Retail%20Data%20%26%20Cohort%20Analysis%20for%20Customer%20Insights.ipynb)
 ## Objective:
 The primary objective of this project is to analyze retail transaction data to gain insights into customer purchasing behavior, product sales performance, and revenue trends. By leveraging Python for data analysis, we aim to:
 + Identifying Sales Trends Over Time
